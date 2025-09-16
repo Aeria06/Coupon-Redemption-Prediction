@@ -115,9 +115,15 @@ Vite is configured to proxy `/api/*` to `http://127.0.0.1:8000` during developme
 
 Tip: You can also store a Python-side `requirements.txt` if you prefer pinned versions for backend deployments.
 
-<img width="1830" height="825" alt="image" src="https://github.com/user-attachments/assets/e2123078-2390-463a-bef3-ddba43acbf9e" />
+<img width="1695" height="848" alt="image" src="https://github.com/user-attachments/assets/98547881-8d61-4c87-ad4e-cabdd44ab7e3" />
+
 <img width="1774" height="836" alt="image" src="https://github.com/user-attachments/assets/69cb5038-eb49-471e-8075-34febedd9bd1" />
+<img width="1812" height="815" alt="image" src="https://github.com/user-attachments/assets/0f5d62b1-a743-42e3-9bbb-030775327533" />
+<img width="1723" height="842" alt="image" src="https://github.com/user-attachments/assets/3a64fa30-ebcc-4b3d-b44a-258b43828658" />
+
 <img width="1482" height="443" alt="image" src="https://github.com/user-attachments/assets/9d400d3e-df0d-4f99-a16d-6b893f887bce" />
 <img width="1618" height="850" alt="image" src="https://github.com/user-attachments/assets/b58ba0a0-96dd-4cd5-87ac-62c37a368fb4" />
-<img width="1647" height="807" alt="image" src="https://github.com/user-attachments/assets/960c1955-36e7-4245-b503-fdd9759fb0f2" />
+
+<img width="1773" height="837" alt="image" src="https://github.com/user-attachments/assets/0a1a497a-3c75-4ce9-b9d1-3dd9a80cf65a" />
+
 
