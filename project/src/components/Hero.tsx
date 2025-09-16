@@ -29,13 +29,13 @@ export default function Hero() {
             
             <div className="bg-white/10 backdrop-blur-sm p-6 rounded-xl border border-white/20">
               <TrendingUp className="w-10 h-10 text-green-300 mb-4 mx-auto" />
-              <h3 className="text-2xl font-bold mb-2">89.7% AUC</h3>
-              <p className="text-blue-200">Best performing Neural Network</p>
+              <h3 className="text-2xl font-bold mb-2">96.6% AUC</h3>
+              <p className="text-blue-200">Best performing XGBoost</p>
             </div>
             
             <div className="bg-white/10 backdrop-blur-sm p-6 rounded-xl border border-white/20">
               <Target className="w-10 h-10 text-purple-300 mb-4 mx-auto" />
-              <h3 className="text-2xl font-bold mb-2">81.7% Accuracy</h3>
+              <h3 className="text-2xl font-bold mb-2">90.8% Accuracy</h3>
               <p className="text-blue-200">Balanced prediction performance</p>
             </div>
           </div>

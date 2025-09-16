@@ -24,7 +24,7 @@ function App() {
           </p>
           <div className="border-t border-gray-700 pt-6">
             <p className="text-gray-500 text-sm">
-              Built with React, TypeScript, and Tailwind CSS • Neural Network achieved 89.7% ROC-AUC
+              Built with React, TypeScript, and Tailwind CSS • XGBoost achieved 90.75% accuracy
             </p>
           </div>
         </div>
